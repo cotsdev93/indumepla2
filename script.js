@@ -34,11 +34,24 @@ class BaseDeDatos {
   registroPorId(id) {
     return this.productos.find((producto) => producto.id === id);
   }
+
+  registrosPorCategoria(categoria) {
+    return this.productos.filter((producto) => producto.categoria == categoria);
+  }
 }
 
 const bd = new BaseDeDatos();
 
 const divProductos = document.querySelector("#productos");
+const btnCategorias = document.querySelectorAll(".btnCategorias");
+
+btnCategorias.forEach((boton) => {
+  boton.addEventListener("click", () => {
+    const productos = bd.registrosPorCategoria(boton.dataset.categoria);
+    cargarProductos(productos)
+    console.log("funca");
+  });
+});
 
 function cargarProductos(productos) {
   divProductos.innerHTML = `
@@ -54,7 +67,7 @@ function cargarProductos(productos) {
       </div>
     </div>
   `;
-  
+
   for (const producto of productos) {
     divProductos.innerHTML += `
       <div class="card">

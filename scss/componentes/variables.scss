@@ -1,0 +1,19 @@
+$main: #084a95;
+$whiteText: #efefef;
+$grisBackground: #f2f2f2;
+$grisO: #abaaaa;
+$grisText: #494949;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  font-family: "liter", serif;
+}
+
+body {
+  position: relative;
+  width: 100%;
+  border: none;
+}

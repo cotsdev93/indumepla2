@@ -1,0 +1,132 @@
+body {
+  footer {
+    width: 100%;
+    height: 100px;
+    background-color: $main;
+    display: flex;
+    justify-content: space-around;
+    .footer01 {
+      width: 30%;
+      height: 100%;
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      img {
+        width: 70%;
+      }
+    }
+    .footer02 {
+      width: 40%;
+      height: 100%;
+      text-align: right;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      .locationContainer {
+        width: 100%;
+        display: flex;
+        justify-content: flex-end;
+        a {
+          display: flex;
+          align-items: center;
+          color: $whiteText;
+          gap: 5px;
+          text-decoration: none;
+        }
+      }
+      .emailContainer {
+        width: 100%;
+        display: flex;
+        justify-content: flex-end;
+        a {
+          display: flex;
+          align-items: center;
+          color: $whiteText;
+          gap: 5px;
+          text-decoration: none;
+        }
+      }
+      .wpContainer {
+        width: 100%;
+        display: flex;
+        justify-content: flex-end;
+        a {
+          display: flex;
+          align-items: center;
+          color: $whiteText;
+          gap: 5px;
+          text-decoration: none;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 737px) {
+  body {
+    footer {
+      width: 100%;
+      height: auto;
+      background-color: $main;
+      display: inline-block;
+      justify-content: space-around;
+      .footer01 {
+        width: 100%;
+        height: 20%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 10px 0px;
+        img {
+          width: 50%;
+        }
+      }
+      .footer02 {
+        width: 100%;
+        // border: solid 1px red;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center; gap: 5px;
+        margin:  10px 0px 30px 0px;
+        .locationContainer {
+          width: auto;
+          display: flex;
+          justify-content: flex-end;
+          a {
+            display: flex;
+            align-items: center;
+            color: $whiteText;
+            gap: 5px;
+            text-decoration: none;
+          }
+        }
+        .emailContainer {
+          width: auto;
+          display: flex;
+          justify-content: flex-end;
+          a {
+            display: flex;
+            align-items: center;
+            color: $whiteText;
+            gap: 5px;
+            text-decoration: none;
+          }
+        }
+        .wpContainer {
+          width: auto;
+          display: flex;
+          justify-content: flex-end;
+          a {
+            display: flex;
+            align-items: center;
+            color: $whiteText;
+            gap: 5px;
+            text-decoration: none;
+          }
+        }
+      }
+    }
+  }
+}

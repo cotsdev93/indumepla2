@@ -1,0 +1,384 @@
+[
+  {
+    "id": 1,
+    "nombre": "222",
+    "categoria": "manijas",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/manijas/222.png",
+    "alt": "",
+    "medidas": "27cm x 17cm"
+  },
+  {
+    "id": 2,
+    "nombre": "1026 B",
+    "categoria": "manijas",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/manijas/1026B.png",
+    "alt": "",
+    "medidas": "22cm x 17cm"
+  },
+  {
+    "id": 3,
+    "nombre": "1026E",
+    "categoria": "manijas",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/manijas/1026E.png",
+    "alt": "",
+    "medidas": "21 x 16cm"
+  },
+  {
+    "id": 4,
+    "nombre": "1938",
+    "categoria": "manijas",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/manijas/1938.png",
+    "alt": "",
+    "medidas": "24cm x 17cm"
+  },
+  {
+    "id": 5,
+    "nombre": "2015",
+    "categoria": "manijas",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/manijas/2015.png",
+    "alt": "",
+    "medidas": "26cm x 16cm"
+  },
+  {
+    "id": 6,
+    "nombre": "Abanico",
+    "categoria": "manijas",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/manijas/abanico.png",
+    "alt": "",
+    "medidas": "25cm x 16xm"
+  },
+  {
+    "id": 6,
+    "nombre": "Abanico B",
+    "categoria": "manijas",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/manijas/abanicoB.png",
+    "alt": "",
+    "medidas": "25cm x 16xm"
+  },
+  {
+    "id": 7,
+    "nombre": "Alita Chica",
+    "categoria": "manijas",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/manijas/alitaChica.png",
+    "alt": "",
+    "medidas": "22cm x 15cm"
+  },
+  {
+    "id": 8,
+    "nombre": "Alita Grande",
+    "categoria": "manijas",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/manijas/alitaGrande.png",
+    "alt": "",
+    "medidas": "23cm x 17cm"
+  },
+  {
+    "id": 9,
+    "nombre": "Alita Rallada 1",
+    "categoria": "manijas",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/manijas/alitaRallada1.png",
+    "alt": "",
+    "medidas": "24cm x 17cm"
+  },
+  {
+    "id": 10,
+    "nombre": "Alita Rallada 2",
+    "categoria": "manijas",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/manijas/alitaRallada2.png",
+    "alt": "",
+    "medidas": "24cm x 17cm"
+  },
+  {
+    "id": 11,
+    "nombre": "Alita Super",
+    "categoria": "manijas",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/manijas/alitaSuper.png",
+    "alt": "",
+    "medidas": "25cm x 18cm"
+  },
+  {
+    "id": 12,
+    "nombre": "Americana",
+    "categoria": "manijas",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/manijas/americana.png",
+    "alt": "",
+    "medidas": "26cm x 16cm"
+  },
+  {
+    "id": 13,
+    "nombre": "bigote",
+    "categoria": "manijas",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/manijas/bigote.png",
+    "alt": "",
+    "medidas": "22cm x 16cm"
+  },
+  {
+    "id": 14,
+    "nombre": "caladita",
+    "categoria": "manijas",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/manijas/caladita.png",
+    "alt": "",
+    "medidas": "23cm x 14cm"
+  },
+  {
+    "id": 15,
+    "nombre": "Doble Bocha",
+    "categoria": "manijas",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/manijas/dobleBocha.png",
+    "alt": "",
+    "medidas": "27cm x 17cm"
+  },
+  {
+    "id": 16,
+    "nombre": "Estribo",
+    "categoria": "manijas",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/manijas/estribo.png",
+    "alt": "",
+    "medidas": "22cm x 16cm"
+  },
+  {
+    "id": 17,
+    "nombre": "Faraona",
+    "categoria": "manijas",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/manijas/faraona.png",
+    "alt": "",
+    "medidas": "17cm x 17cm"
+  },
+  {
+    "id": 18,
+    "nombre": "Fija Chica",
+    "categoria": "manijas",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/manijas/fijaChica.png",
+    "alt": "",
+    "medidas": "21cm x 13cm"
+  },
+  {
+    "id": 19,
+    "nombre": "Fija Grande",
+    "categoria": "manijas",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/manijas/fijaGrande.png",
+    "alt": "",
+    "medidas": "21cm x 13cm"
+  },
+  {
+    "id": 20,
+    "nombre": "Franja Lisa",
+    "categoria": "manijas",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/manijas/franjaLisa.png",
+    "alt": "",
+    "medidas": "27cm x 16cm"
+  },
+  {
+    "id": 21,
+    "nombre": "Moño Chico",
+    "categoria": "manijas",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/manijas/monioChico.png",
+    "alt": "",
+    "medidas": "19cm x 15cm"
+  },
+  {
+    "id": 22,
+    "nombre": "Moño Grande",
+    "categoria": "manijas",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/manijas/monioGrande.png",
+    "alt": "",
+    "medidas": "21cm x 16cm"
+  },
+  {
+    "id": 23,
+    "nombre": "Placa 49",
+    "categoria": "placas",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/placas/placa49.png",
+    "alt": "",
+    "medidas": "12cm x 8cm"
+  },
+  {
+    "id": 24,
+    "nombre": "Placa 49 Estamp",
+    "categoria": "placas",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/placas/placa49Estampada.png",
+    "alt": "",
+    "medidas": "12cm x 7cm"
+  },
+  {
+    "id": 25,
+    "nombre": "Placa Angelito",
+    "categoria": "placas",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/placas/placaAngelito.png",
+    "alt": "",
+    "medidas": "12cm x 8cm"
+  },
+  {
+    "id": 26,
+    "nombre": "Placa Cofre",
+    "categoria": "placas",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/placas/placaCofre.png",
+    "alt": "",
+    "medidas": "18cm x 14cm"
+  },
+  {
+    "id": 27,
+    "nombre": "Placa Jarron",
+    "categoria": "placas",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/placas/placaJarron.PNG",
+    "alt": "",
+    "medidas": "16cm x 16cm"
+  },
+
+  {
+    "id": 28,
+    "nombre": "Placa Laurel",
+    "categoria": "placas",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/placas/placaLaurel.PNG",
+    "alt": "",
+    "medidas": "14cm x 12cm"
+  },
+  {
+    "id": 29,
+    "nombre": "Placa QEPD",
+    "categoria": "placas",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/placas/placaQEPD.PNG",
+    "alt": "",
+    "medidas": "15cm x 13cm"
+  },
+  {
+    "id": 30,
+    "nombre": "Cristo Recortado",
+    "categoria": "cruces",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/crucesycuerpos/CristoRecortado.PNG",
+    "alt": "",
+    "medidas": "12cm x 8cm"
+  },
+  {
+    "id": 31,
+    "nombre": "Cruz Calada",
+    "categoria": "cruces",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/crucesycuerpos/CruzCalada.PNG",
+    "alt": "",
+    "medidas": "10cm x 27cm"
+  },
+  {
+    "id": 32,
+    "nombre": "Cruz Laurel",
+    "categoria": "cruces",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/crucesycuerpos/cruzLaurel.PNG",
+    "alt": "",
+    "medidas": "19cm x 30cm"
+  },
+  {
+    "id": 33,
+    "nombre": "Cuerpo de 32",
+    "categoria": "cruces",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/crucesycuerpos/cuerpoDeTreintaDos.PNG",
+    "alt": "",
+    "medidas": "22cm x 36cm"
+  },
+  {
+    "id": 34,
+    "nombre": "Estrella de David",
+    "categoria": "cruces",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/crucesycuerpos/EstrelladeDavid.png",
+    "alt": "",
+    "medidas": "11cm x 12cm"
+  },
+  {
+    "id": 35,
+    "nombre": "Medallon",
+    "categoria": "cruces",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/crucesycuerpos/Medallon.PNG",
+    "alt": "",
+    "medidas": "21cm x 21cm"
+  },
+
+  {
+    "id": 36,
+    "nombre": "Virgen del Niño",
+    "categoria": "cruces",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/crucesycuerpos/VirgendelNino.PNG",
+    "alt": "",
+    "medidas": "16cm x 24cm"
+  },
+  {
+    "id": 37,
+    "nombre": "Virgen de Lourdes",
+    "categoria": "cruces",
+    "precio": 100,
+    "descripcion": "",
+    "img": "/assets/img/crucesycuerpos/VirgendeLourdes.png", 
+    "alt": "",
+    "medidas": "13cm x 16cm"
+  }
+]

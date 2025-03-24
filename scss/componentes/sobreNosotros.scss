@@ -1,0 +1,76 @@
+body {
+  .sobreNosotros {
+    position: relative;
+    width: 100%;
+    height: 60vh;
+    background-color: $grisBackground;
+    background-image: url("../assets/img/welderAboutUs.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+
+    &::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0); // Transparente inicialmente
+      transition: all 0.3s ease;
+      z-index: 1;
+    }
+
+    &:hover::before {
+      background-color: rgba(
+        0,
+        0,
+        0,
+        0.6
+      ); // Aumenta la oscuridad al hacer hover
+      filter: blur(3px); // Aplica un desenfoque de 3px
+
+    }
+
+    .textContainer {
+      margin: 0px 40px;
+      position: relative;
+      z-index: 2;
+
+      p {
+        font-size: 18px;
+        margin: 20px 0px;
+        text-align: center;
+        color: $whiteText;
+        text-shadow: -1px -1px 2px rgba(0, 0, 0, 0.7),
+          1px 1px 2px rgba(255, 255, 255, 0.4);
+      }
+    }
+  }
+}
+
+@media (max-width: 737px) {
+  body {
+    .sobreNosotros {
+      height: 50vh; /* Ajusta la altura para móviles */
+      // border: solid 1px red;
+      /* Oscurece la imagen de fondo en móviles sin hover */
+      background-position: 50%50%;
+      &::before {
+        background-color: rgba(0, 0, 0, 0.5); /* Oscurece la imagen */
+      }
+
+      .textContainer {
+        // border: solid 1px blue;
+        height: auto;
+        margin: 0px 10px; /* Ajusta el margen */
+        p {
+          font-size: 18px; /* Ajusta el tamaño del texto para móviles */
+        }
+      }
+    }
+  }
+}

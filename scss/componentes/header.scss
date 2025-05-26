@@ -33,6 +33,9 @@ header {
           text-decoration: none;
           color: $whiteText;
         }
+        .btnCategoriasMenu {
+          display: none;
+        }
       }
     }
   }
@@ -78,6 +81,17 @@ header {
           margin-top: 20px;
           a {
             font-size: 20px;
+            // border: solid 1px red;
+          }
+          .btnCategoriasMenu {
+            display: block;
+            background-color: $main;
+            border: none;
+            border-radius: 5px;
+            padding: 3px;
+            color: $whiteText;
+            // border: solid 1px red;
+            font-size: 15px;
           }
         }
       }

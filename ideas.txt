@@ -1,7 +1,13 @@
-1. separar fotos accesorios y herrajes
-2. armar cuenta de google
-3. logo y font
+1. poner la pestaña de productos en la esquina junto a “contacto” 
+Herrajes
+Cruces y cuerpos
+Placas
+Accesorios
 
+2. agregar marca de agua atrás de las imágenes con el “logo” medio transparente, yo probe pero si te tengo que pasar las imagenes en png tipo sticker no podria como que queda raro, y sino  tambien probe con el fondo negro y ponerle el “logo” en la foto y tampoco queda bien.  
 
-En Indumepla nos especializamos en la fabricación de herrajes y accesorios para ataúdes. Con un compromiso inquebrantable por la excelencia, diseñamos y fabricamos manijas y accesorios de alta calidad que realzan cada pieza.
-Nuestra artesanía se distingue por la calidad y la atención al detalle. Nuestros herrajes son fabricados con los más altos estándares para ofrecer durabilidad y estética excepcional.
+3. faltan cargar las ultimas fotos, estan en la carpeta “ultimas”, y en la carpeta “indumepla” estan las que ya te habia pasado. 
+
+https://drive.google.com/drive/folders/1e6_dy07JsQvZ5hJBDyXa8WBcDZtx4TAh?usp=sharing
+
+https://drive.google.com/drive/folders/1x3kWD6KXxbokFNOzdg3vH04Et_FgLpdq?usp=sharing 

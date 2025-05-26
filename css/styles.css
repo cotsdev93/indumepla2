@@ -89,18 +89,18 @@ header nav ul li .btnCategoriasMenu {
     transition: 0.6s ease;
     z-index: 3;
   }
-  header nav ul li {
+  header nav ul .contacto {
     margin-top: 20px;
   }
-  header nav ul li a {
+  header nav ul .contacto a {
     font-size: 20px;
   }
-  header nav ul li .btnCategoriasMenu {
+  header nav ul .btnsMenu .btnCategoriasMenu {
+    margin-top: 5px;
     display: block;
     background-color: #084a95;
     border: none;
     border-radius: 5px;
-    padding: 3px;
     color: #efefef;
     font-size: 15px;
   }
@@ -114,8 +114,6 @@ body .sobreNosotros {
   height: 60vh;
   background-color: #f2f2f2;
   background-image: url("../assets/img/welderAboutUs.jpeg");
-  background-size: cover;
-  background-attachment: fixed;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -154,6 +152,7 @@ body .sobreNosotros .textContainer p {
     height: 50vh; /* Ajusta la altura para móviles */
     /* Oscurece la imagen de fondo en móviles sin hover */
     background-position: 50% 50%;
+    background-attachment: scroll;
   }
   body .sobreNosotros::before {
     background-color: rgba(0, 0, 0, 0.5); /* Oscurece la imagen */

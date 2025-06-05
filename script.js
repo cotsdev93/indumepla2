@@ -54,6 +54,9 @@ btnCategorias.forEach((boton) => {
 });
 
 function cargarProductos(productos) {
+  // Ordenar por precio ascendente
+  productos.sort((a, b) => a.precio - b.precio);
+
   divProductos.innerHTML = `
     <div class="overlay"></div>
     <div class="zoom-view">
@@ -75,17 +78,19 @@ function cargarProductos(productos) {
           <img class="img" src="${producto.img}" alt="${producto.nombre}" />
         </div>
         <div class="infoContainer">
-         <div class="nombreContainer">
-           <h3>${producto.nombre}</h3>
-         </div>
-         <p class="medidas">${producto.medidas}</p>
+          <div class="nombreContainer">
+            <h3>${producto.nombre}</h3>
+          </div>
+          <p class="medidas">${producto.medidas}</p>
+          <p class="precio">$${producto.precio}</p>
         </div>
       </div>
-          `;
+    `;
   }
 
-  setupZoomHandlers(); // Ahora que los elementos están en el DOM, configuramos los manejadores de zoom
+  setupZoomHandlers();
 }
+
 
 function setupZoomHandlers() {
   const images = document.querySelectorAll(".imgContainer img");

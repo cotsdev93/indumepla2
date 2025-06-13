@@ -1,328 +1,97 @@
 [
   {
     "id": 1,
-    "nombre": "222",
-    "categoria": "herrajes",
-    "precio": 100,
+    "nombre": "Estrella de David",
+    "categoria": "cruces",
+    "precio": 1,
     "descripcion": "",
-    "img": "./assets/img/manijas/222.png",
+    "img": "./assets/img/crucesycuerpos/EstrelladeDavid.png",
     "alt": "",
-    "medidas": "27cm x 17cm"
+    "medidas": "11cm x 12cm"
   },
   {
     "id": 2,
-    "nombre": "1026 B",
-    "categoria": "herrajes",
-    "precio": 100,
+    "nombre": "Cuerpito de 10",
+    "categoria": "cruces",
+    "precio": 2,
     "descripcion": "",
-    "img": "./assets/img/manijas/1026B.png",
+    "img": "./assets/img/crucesycuerpos/cuerpitode1014x12cm.png",
     "alt": "",
-    "medidas": "22cm x 17cm"
+    "medidas": "14cm x 12xm"
   },
   {
     "id": 3,
-    "nombre": "1026 E",
-    "categoria": "herrajes",
-    "precio": 100,
+    "nombre": "Cuerpo de 25",
+    "categoria": "cruces",
+    "precio": 3,
     "descripcion": "",
-    "img": "./assets/img/manijas/1026E.png",
+    "img": "./assets/img/crucesycuerpos/cuerpode2527x20cm.png",
     "alt": "",
-    "medidas": "21 x 16cm"
+    "medidas": "27cm x 20cm"
   },
   {
     "id": 4,
-    "nombre": "1938",
-    "categoria": "herrajes",
-    "precio": 100,
+    "nombre": "Cuerpo de 35",
+    "categoria": "cruces",
+    "precio": 4,
     "descripcion": "",
-    "img": "./assets/img/manijas/1938.png",
+    "img": "./assets/img/crucesycuerpos/cuerpode3535x24cm.png",
     "alt": "",
-    "medidas": "24cm x 17cm"
+    "medidas": "35cm x 24cm"
   },
   {
     "id": 5,
-    "nombre": "2015",
-    "categoria": "herrajes",
-    "precio": 100,
+    "nombre": "Cuerpo de 45",
+    "categoria": "cruces",
+    "precio": 5,
     "descripcion": "",
-    "img": "./assets/img/manijas/2015.png",
+    "img": "./assets/img/crucesycuerpos/cuerpode4545x30cm.PNG",
     "alt": "",
-    "medidas": "26cm x 16cm"
+    "medidas": "45cm x 30cm"
   },
   {
     "id": 6,
-    "nombre": "Abanico",
-    "categoria": "herrajes",
-    "precio": 100,
-    "descripcion": "",
-    "img": "./assets/img/manijas/abanico.png",
-    "alt": "",
-    "medidas": "25cm x 16xm"
-  },
-  {
-    "id": 6,
-    "nombre": "Abanico Bocha",
-    "categoria": "herrajes",
-    "precio": 67479,
-    "descripcion": "",
-    "img": "./assets/img/manijas/abanicoB.png",
-    "alt": "",
-    "medidas": "25cm x 16xm"
-  },
-  {
-    "id": 7,
-    "nombre": "Alita Chica",
-    "categoria": "herrajes",
-    "precio": 12311,
-    "descripcion": "",
-    "img": "./assets/img/manijas/alitaChica.png",
-    "alt": "",
-    "medidas": "22cm x 15cm"
-  },
-  {
-    "id": 8,
-    "nombre": "Alita Grande",
-    "categoria": "herrajes",
-    "precio": 24936,
-    "descripcion": "",
-    "img": "./assets/img/manijas/alitaGrande.png",
-    "alt": "",
-    "medidas": "23cm x 17cm"
-  },
-  {
-    "id": 9,
-    "nombre": "Alita Rallada 1",
-    "categoria": "herrajes",
-    "precio": 20457,
-    "descripcion": "",
-    "img": "./assets/img/manijas/alitaRallada1.png",
-    "alt": "",
-    "medidas": "24cm x 17cm"
-  },
-  {
-    "id": 10,
-    "nombre": "Alita Rallada 2",
-    "categoria": "herrajes",
-    "precio": 100,
-    "descripcion": "",
-    "img": "./assets/img/manijas/alitaRallada2.png",
-    "alt": "",
-    "medidas": "24cm x 17cm"
-  },
-  {
-    "id": 11,
-    "nombre": "Alita Super",
-    "categoria": "herrajes",
-    "precio": 31805,
-    "descripcion": "",
-    "img": "./assets/img/manijas/alitaSuper.png",
-    "alt": "",
-    "medidas": "25cm x 18cm"
-  },
-  {
-    "id": 12,
-    "nombre": "Americana",
-    "categoria": "herrajes",
-    "precio": 28744,
-    "descripcion": "",
-    "img": "./assets/img/manijas/americana.png",
-    "alt": "",
-    "medidas": "26cm x 16cm"
-  },
-  {
-    "id": 13,
-    "nombre": "Bigote",
-    "categoria": "herrajes",
-    "precio": 20457,
-    "descripcion": "",
-    "img": "./assets/img/manijas/bigote.png",
-    "alt": "",
-    "medidas": "23cm x 18cm"
-  },
-  {
-    "id": 14,
-    "nombre": "Caladita",
-    "categoria": "herrajes",
-    "precio": 20457,
-    "descripcion": "",
-    "img": "./assets/img/manijas/caladita.png",
-    "alt": "",
-    "medidas": "23cm x 14cm"
-  },
-  {
-    "id": 15,
-    "nombre": "Doble Bocha",
-    "categoria": "herrajes",
-    "precio": 92054,
-    "descripcion": "",
-    "img": "./assets/img/manijas/dobleBocha.png",
-    "alt": "",
-    "medidas": "27cm x 17cm"
-  },
-  {
-    "id": 16,
-    "nombre": "Estribo",
-    "categoria": "herrajes",
-    "precio": 18478,
-    "descripcion": "",
-    "img": "./assets/img/manijas/estribo.png",
-    "alt": "",
-    "medidas": "22cm x 16cm"
-  },
-  {
-    "id": 17,
-    "nombre": "Faraona",
-    "categoria": "herrajes",
-    "precio": 100,
-    "descripcion": "",
-    "img": "./assets/img/manijas/faraona.png",
-    "alt": "",
-    "medidas": "17cm x 17cm"
-  },
-  {
-    "id": 19,
-    "nombre": "Fija Grande",
-    "categoria": "herrajes",
-    "precio": 13356,
-    "descripcion": "",
-    "img": "./assets/img/manijas/fijaGrande.png",
-    "alt": "",
-    "medidas": "21cm x 13cm"
-  },
-  {
-    "id": 20,
-    "nombre": "Franja Lisa",
-    "categoria": "herrajes",
-    "precio": 100,
-    "descripcion": "",
-    "img": "./assets/img/manijas/franjaLisa.png",
-    "alt": "",
-    "medidas": "27cm x 16cm"
-  },
-  {
-    "id": 21,
-    "nombre": "Moño Chico",
-    "categoria": "herrajes",
-    "precio": 14857,
-    "descripcion": "",
-    "img": "./assets/img/manijas/monioChico.png",
-    "alt": "",
-    "medidas": "19cm x 15cm"
-  },
-  {
-    "id": 22,
-    "nombre": "Moño Grande",
-    "categoria": "herrajes",
-    "precio": 23779,
-    "descripcion": "",
-    "img": "./assets/img/manijas/monioGrande.png",
-    "alt": "",
-    "medidas": "21cm x 16cm"
-  },
-  {
-    "id": 23,
-    "nombre": "Placa 49",
-    "categoria": "placas",
-    "precio": 100,
-    "descripcion": "",
-    "img": "./assets/img/placas/placa49.png",
-    "alt": "",
-    "medidas": "12cm x 8cm"
-  },
-  {
-    "id": 24,
-    "nombre": "Placa 49 Estamp",
-    "categoria": "placas",
-    "precio": 100,
-    "descripcion": "",
-    "img": "./assets/img/placas/placa49Estampada.png",
-    "alt": "",
-    "medidas": "12cm x 7cm"
-  },
-  {
-    "id": 25,
-    "nombre": "Placa Angelito",
-    "categoria": "placas",
-    "precio": 31805,
-    "descripcion": "",
-    "img": "./assets/img/placas/placaAngelito.png",
-    "alt": "",
-    "medidas": "12cm x 8cm"
-  },
-  {
-    "id": 26,
-    "nombre": "Placa Cofre",
-    "categoria": "placas",
-    "precio": 100,
-    "descripcion": "",
-    "img": "./assets/img/placas/placaCofre.png",
-    "alt": "",
-    "medidas": "18cm x 14cm"
-  },
-  {
-    "id": 27,
-    "nombre": "Placa Jarron",
-    "categoria": "placas",
-    "precio": 1656,
-    "descripcion": "",
-    "img": "./assets/img/placas/placaJarron.PNG",
-    "alt": "",
-    "medidas": "16cm x 16cm"
-  },
-
-  {
-    "id": 28,
-    "nombre": "Placa Laurel",
-    "categoria": "placas",
-    "precio": 43467,
-    "descripcion": "",
-    "img": "./assets/img/placas/placaLaurel.PNG",
-    "alt": "",
-    "medidas": "14cm x 12cm"
-  },
-  {
-    "id": 29,
-    "nombre": "Placa QEPD",
-    "categoria": "placas",
-    "precio": 1533,
-    "descripcion": "",
-    "img": "./assets/img/placas/placaQEPD.PNG",
-    "alt": "",
-    "medidas": "15cm x 13cm"
-  },
-  {
-    "id": 30,
     "nombre": "Cristo Recortado",
     "categoria": "cruces",
-    "precio": 1726,
+    "precio": 6,
     "descripcion": "",
     "img": "./assets/img/crucesycuerpos/CristoRecortado.PNG",
     "alt": "",
     "medidas": "12cm x 8cm"
   },
   {
-    "id": 31,
-    "nombre": "Cruz Calada",
+    "id": 7,
+    "nombre": "Medallon",
     "categoria": "cruces",
-    "precio": 5197,
+    "precio": 7,
     "descripcion": "",
-    "img": "./assets/img/crucesycuerpos/CruzCalada.PNG",
+    "img": "./assets/img/crucesycuerpos/Medallon.PNG",
     "alt": "",
-    "medidas": "10cm x 27cm"
+    "medidas": "21cm x 21cm"
   },
   {
-    "id": 32,
-    "nombre": "Cruz Laurel",
+    "id": 8,
+    "nombre": "Virgen del Niño",
     "categoria": "cruces",
-    "precio": 5179,
+    "precio": 8,
     "descripcion": "",
-    "img": "./assets/img/crucesycuerpos/cruzLaurel.PNG",
+    "img": "./assets/img/crucesycuerpos/VirgendelNino.PNG",
     "alt": "",
-    "medidas": "19cm x 30cm"
+    "medidas": "16cm x 24cm"
   },
   {
-    "id": 33,
-    "nombre": "Cuerpo de 32",
+    "id": 9,
+    "nombre": "Virgen de Lourdes",
+    "categoria": "cruces",
+    "precio": 9,
+    "descripcion": "",
+    "img": "./assets/img/crucesycuerpos/VirgendeLourdes.png",
+    "alt": "",
+    "medidas": "13cm x 16cm"
+  },
+  {
+    "id": 9.1,
+    "nombre": "Cruz Italiana",
     "categoria": "cruces",
     "precio": 100,
     "descripcion": "",
@@ -331,49 +100,68 @@
     "medidas": "22cm x 36cm"
   },
   {
-    "id": 34,
-    "nombre": "Estrella de David",
+    "id": 10,
+    "nombre": "Cruz Rosita",
     "categoria": "cruces",
-    "precio": 915,
+    "precio": 11,
     "descripcion": "",
-    "img": "./assets/img/crucesycuerpos/EstrelladeDavid.png",
+    "img": "./assets/img/crucesycuerpos/cruzRosita22x32.png",
     "alt": "",
-    "medidas": "11cm x 12cm"
+    "medidas": "20cm x 15xm"
   },
   {
-    "id": 35,
-    "nombre": "Medallon",
+    "id": 11,
+    "nombre": "Cruz Calada",
     "categoria": "cruces",
-    "precio": 1357,
+    "precio": 12,
     "descripcion": "",
-    "img": "./assets/img/crucesycuerpos/Medallon.PNG",
+    "img": "./assets/img/crucesycuerpos/cruzCalada.PNG",
     "alt": "",
-    "medidas": "21cm x 21cm"
-  },
-
-  {
-    "id": 36,
-    "nombre": "Virgen del Niño",
-    "categoria": "cruces",
-    "precio": 1533,
-    "descripcion": "",
-    "img": "./assets/img/crucesycuerpos/VirgendelNino.PNG",
-    "alt": "",
-    "medidas": "16cm x 24cm"
+    "medidas": "10cm x 27cm"
   },
   {
-    "id": 37,
-    "nombre": "Virgen de Lourdes",
+    "id": 12,
+    "nombre": "Cruz Lisa de 25",
     "categoria": "cruces",
-    "precio": 5197,
+    "precio": 13,
     "descripcion": "",
-    "img": "./assets/img/crucesycuerpos/VirgendeLourdes.png",
+    "img": "./assets/img/crucesycuerpos/cruzLisade2528x17cm.png",
     "alt": "",
-    "medidas": "13cm x 16cm"
+    "medidas": "28cm x 17xm"
   },
   {
-    "id": 38,
-    "nombre": "Placa 49 G",
+    "id": 13,
+    "nombre": "Cruz Lisa de 35",
+    "categoria": "cruces",
+    "precio": 14,
+    "descripcion": "",
+    "img": "./assets/img/crucesycuerpos/cruzLisade3528x17cm.png",
+    "alt": "",
+    "medidas": "28cm x 17xm"
+  },
+  {
+    "id": 14,
+    "nombre": "Cruz Laurel",
+    "categoria": "cruces",
+    "precio": 16,
+    "descripcion": "",
+    "img": "./assets/img/crucesycuerpos/cruzLaurel.PNG",
+    "alt": "",
+    "medidas": "19cm x 30cm"
+  },
+  {
+    "id": 14.1,
+    "nombre": "Placa 49 Estamp",
+    "categoria": "placas",
+    "precio": 1069,
+    "descripcion": "",
+    "img": "./assets/img/placas/placa49Estampada.png",
+    "alt": "",
+    "medidas": "12cm x 7cm"
+  },
+  {
+    "id": 14.2,
+    "nombre": "Placa 48",
     "categoria": "placas",
     "precio": 100,
     "descripcion": "",
@@ -381,138 +169,80 @@
     "alt": "",
     "medidas": "13cm x 10cm"
   },
+
   {
-    "id": 39,
-    "nombre": "Antorcha",
-    "categoria": "accesorios",
-    "precio": 100,
+    "id": 15,
+    "nombre": "Placa Angelito",
+    "categoria": "placas",
+    "precio": 1815,
     "descripcion": "",
-    "img": "./assets/img/accesorios/antorcha5x23.png",
+    "img": "./assets/img/placas/placaAngelito.png",
     "alt": "",
-    "medidas": "5cm x 23cm"
+    "medidas": "12cm x 8cm"
   },
   {
-    "id": 40,
-    "nombre": "Bisagra",
-    "categoria": "accesorios",
-    "precio": 100,
+    "id": 16,
+    "nombre": "Placa 49",
+    "categoria": "placas",
+    "precio": 1815,
     "descripcion": "",
-    "img": "./assets/img/accesorios/bisagra14x7.png",
+    "img": "./assets/img/placas/placa49.png",
     "alt": "",
-    "medidas": "14cm x 7cm"
+    "medidas": "12cm x 8cm"
   },
   {
-    "id": 41,
-    "nombre": "Bisagra C",
-    "categoria": "accesorios",
-    "precio": 100,
+    "id": 17,
+    "nombre": "Placa Laurel",
+    "categoria": "placas",
+    "precio": 2381,
     "descripcion": "",
-    "img": "./assets/img/accesorios/bisagraC.png",
+    "img": "./assets/img/placas/placaLaurel.PNG",
     "alt": "",
-    "medidas": "23cm x 27cm"
+    "medidas": "14cm x 12cm"
   },
   {
-    "id": 42,
-    "nombre": "Cerradura Cofre",
-    "categoria": "accesorios",
-    "precio": 100,
+    "id": 18,
+    "nombre": "Placa QEPD",
+    "categoria": "placas",
+    "precio": 2796,
     "descripcion": "",
-    "img": "./assets/img/accesorios/cerraduraCofre10x4.png",
+    "img": "./assets/img/placas/placaQEPD.PNG",
     "alt": "",
-    "medidas": "10cm x 4cm"
+    "medidas": "15cm x 13cm"
   },
   {
-    "id": 43,
-    "nombre": "Cerradura Corta",
-    "categoria": "accesorios",
-    "precio": 100,
+    "id": 19,
+    "nombre": "Placa Jarron",
+    "categoria": "placas",
+    "precio": 5092,
     "descripcion": "",
-    "img": "./assets/img/accesorios/cerraduraCorta10x13.png",
+    "img": "./assets/img/placas/placaJarron.PNG",
     "alt": "",
-    "medidas": "10cm x 13cm"
+    "medidas": "16cm x 16cm"
   },
   {
-    "id": 44,
-    "nombre": "Cerradura Larga",
-    "categoria": "accesorios",
-    "precio": 100,
+    "id": 20,
+    "nombre": "Placa Cofre",
+    "categoria": "placas",
+    "precio": 6277,
     "descripcion": "",
-    "img": "./assets/img/accesorios/cerraduraLarga10x15.png",
+    "img": "./assets/img/placas/placaCofre.png",
     "alt": "",
-    "medidas": "10cm x 15cm"
+    "medidas": "18cm x 14cm"
   },
+
   {
-    "id": 45,
-    "nombre": "Chimasa",
-    "categoria": "accesorios",
-    "precio": 5197,
-    "descripcion": "",
-    "img": "./assets/img/accesorios/chimasa37x9.png",
-    "alt": "",
-    "medidas": "37cm x 9cm"
-  },
-  {
-    "id": 46,
-    "nombre": "Chimasa G",
-    "categoria": "accesorios",
-    "precio": 100,
-    "descripcion": "",
-    "img": "./assets/img/accesorios/chimasa41x12.png",
-    "alt": "",
-    "medidas": "41cm x 12cm"
-  },
-  {
-    "id": 47,
-    "nombre": "Chimasa Cofre",
-    "categoria": "accesorios",
-    "precio": 10277,
-    "descripcion": "",
-    "img": "./assets/img/accesorios/chimasaCofre57x12.png",
-    "alt": "",
-    "medidas": "57cm x 12cm"
-  },
-  {
-    "id": 48,
-    "nombre": "Clavija",
-    "categoria": "accesorios",
-    "precio": 100,
-    "descripcion": "",
-    "img": "./assets/img/accesorios/clavija7x3.png",
-    "alt": "",
-    "medidas": "7cm x 3cm"
-  },
-  {
-    "id": 49,
-    "nombre": "Cuerpo de Diez",
-    "categoria": "accesorios",
-    "precio": 1414,
-    "descripcion": "",
-    "img": "./assets/img/accesorios/cuerpoDeDiez12x16.png",
-    "alt": "",
-    "medidas": "12cm x 16cm"
-  },
-  {
-    "id": 51,
-    "nombre": "Escuadra con Dado",
-    "categoria": "accesorios",
-    "precio": 100,
-    "descripcion": "",
-    "img": "./assets/img/accesorios/escuadraConDado7x8.png",
-    "alt": "",
-    "medidas": "7cm x 8cm"
-  },
-  {
-    "id": 52,
+    "id": 22,
     "nombre": "Escuadrita",
     "categoria": "accesorios",
-    "precio": 738,
+    "precio": 789,
     "descripcion": "",
     "img": "./assets/img/accesorios/escuadrita5x8.png",
     "alt": "",
     "medidas": "5cm x 8cm"
   },
   {
-    "id": 53,
+    "id": 23,
     "nombre": "Escuadrita Con Boton",
     "categoria": "accesorios",
     "precio": 1904,
@@ -522,107 +252,156 @@
     "medidas": "7cm x 8cm"
   },
   {
-    "id": 54,
-    "nombre": "Guarda Cofre",
+    "id": 24,
+    "nombre": "Clavija",
     "categoria": "accesorios",
-    "precio": 100,
+    "precio": 592,
     "descripcion": "",
-    "img": "./assets/img/accesorios/guardaCofre41x4.png",
+    "img": "./assets/img/accesorios/clavija7x3.png",
     "alt": "",
-    "medidas": "41cm x 4cm"
+    "medidas": "7cm x 3cm"
   },
   {
-    "id": 55,
+    "id": 25,
+    "nombre": "Antorcha",
+    "categoria": "accesorios",
+    "precio": 1849,
+    "descripcion": "",
+    "img": "./assets/img/accesorios/antorcha5x23.png",
+    "alt": "",
+    "medidas": "5cm x 23cm"
+  },
+  {
+    "id": 26,
     "nombre": "INRI",
     "categoria": "accesorios",
-    "precio": 100,
+    "precio": 1452,
     "descripcion": "",
     "img": "./assets/img/accesorios/inri8x6.png",
     "alt": "",
     "medidas": "8cm x 6cm"
   },
   {
-    "id": 56,
-    "nombre": "Levantador",
+    "id": 27,
+    "nombre": "Bisagra Chica",
     "categoria": "accesorios",
-    "precio": 2026,
     "descripcion": "",
-    "img": "./assets/img/accesorios/levantador5x5.png",
+    "img": "./assets/img/accesorios/bisagra14x7.png",
     "alt": "",
-    "medidas": "5cm x 5cm"
+    "medidas": "14cm x 7cm"
   },
   {
-    "id": 57,
-    "nombre": "Levantador x 2",
+    "id": 28,
+    "nombre": "Bisagra Grande",
     "categoria": "accesorios",
-    "precio": 100,
+    "precio": 15910,
     "descripcion": "",
-    "img": "./assets/img/accesorios/levantadorx2.png",
+    "img": "./assets/img/accesorios/bisagraC.png",
+    "alt": "",
+    "medidas": "23cm x 27cm"
+  },
+  {
+    "id": 29,
+    "nombre": "Guarda Cofre",
+    "categoria": "accesorios",
+    "precio": 5566,
+    "descripcion": "",
+    "img": "./assets/img/accesorios/guardaCofre41x4.png",
     "alt": "",
     "medidas": "41cm x 4cm"
   },
   {
-    "id": 58,
-    "nombre": "Media Bisagra",
-    "categoria": "accesorios",
-    "precio": 100,
-    "descripcion": "",
-    "img": "./assets/img/accesorios/mediaBisagra12x6.png",
-    "alt": "",
-    "medidas": "12cm x 6cm"
-  },
-  {
-    "id": 59,
-    "nombre": "Pendon",
-    "categoria": "accesorios",
-    "precio": 100,
-    "descripcion": "",
-    "img": "./assets/img/accesorios/pendon4x20.png",
-    "alt": "",
-    "medidas": "4cm x 20cm"
-  },
-  {
-    "id": 60,
-    "nombre": "Pendon Rosita",
-    "categoria": "accesorios",
-    "precio": 5197,
-    "descripcion": "",
-    "img": "./assets/img/accesorios/pendonRosita5x19.png",
-    "alt": "",
-    "medidas": "5cm x 19cm"
-  },
-  {
-    "id": 61,
+    "id": 30,
     "nombre": "Soporte",
     "categoria": "accesorios",
-    "precio": 100,
+    "precio": 5566,
     "descripcion": "",
     "img": "./assets/img/accesorios/soporte19x4.png",
     "alt": "",
     "medidas": "19cm x 4cm"
   },
   {
-    "id": 62,
-    "nombre": "Soporte x 2",
+    "id": 31,
+    "nombre": "Chimasa P",
+    "categoria": "accesorios",
+    "precio": 5566,
+    "descripcion": "",
+    "img": "./assets/img/accesorios/chimasa37x9.png",
+    "alt": "",
+    "medidas": "37cm x 9cm"
+  },
+  {
+    "id": 32,
+    "nombre": "Chimasa C",
+    "categoria": "accesorios",
+    "precio": 11008,
+    "descripcion": "",
+    "img": "./assets/img/accesorios/chimasa41x12.png",
+    "alt": "",
+    "medidas": "41cm x 12cm"
+  },
+  {
+    "id": 33,
+    "nombre": "Cerradura Corta",
     "categoria": "accesorios",
     "precio": 100,
     "descripcion": "",
-    "img": "./assets/img/accesorios/soportex2.png",
+    "img": "./assets/img/accesorios/cerraduraCorta10x13.png",
     "alt": "",
-    "medidas": "19cm x 4cm"
+    "medidas": "10cm x 13cm"
   },
   {
-    "id": 63,
+    "id": 34,
+    "nombre": "Cerradura Larga",
+    "categoria": "accesorios",
+    "precio": 100,
+    "descripcion": "",
+    "img": "./assets/img/accesorios/cerraduraLarga10x15.png",
+    "alt": "",
+    "medidas": "10cm x 15cm"
+  },
+  {
+    "id": 35,
+    "nombre": "Cerradura Cofre",
+    "categoria": "accesorios",
+    "precio": 100,
+    "descripcion": "",
+    "img": "./assets/img/accesorios/cerraduraCofre10x4.png",
+    "alt": "",
+    "medidas": "10cm x 4cm"
+  },
+  {
+    "id": 36,
+    "nombre": "Pendon",
+    "categoria": "accesorios",
+    "precio": 1641,
+    "descripcion": "",
+    "img": "./assets/img/accesorios/pendon4x20.png",
+    "alt": "",
+    "medidas": "4cm x 20cm"
+  },
+  {
+    "id": 37,
+    "nombre": "Pendon Rosita",
+    "categoria": "accesorios",
+    "precio": 1773,
+    "descripcion": "",
+    "img": "./assets/img/accesorios/pendonRosita5x19.png",
+    "alt": "",
+    "medidas": "5cm x 19cm"
+  },
+  {
+    "id": 38,
     "nombre": "Angelito 1",
     "categoria": "herrajes",
-    "precio": 4281,
+    "precio": 13356,
     "descripcion": "",
-    "img": "./assets/img/manijas/angelito112x10.png",
+    "img": "./assets/img/manijas/fijaGrande.png",
     "alt": "",
-    "medidas": "12cm x 10cm"
+    "medidas": "21cm x 13cm"
   },
   {
-    "id": 63,
+    "id": 39,
     "nombre": "Angelito 2",
     "categoria": "herrajes",
     "precio": 5226,
@@ -632,27 +411,7 @@
     "medidas": "15cm x 11cm"
   },
   {
-    "id": 64,
-    "nombre": "Borla",
-    "categoria": "herrajes",
-    "precio": 100,
-    "descripcion": "",
-    "img": "./assets/img/manijas/borla21x13.png",
-    "alt": "",
-    "medidas": "21cm x 13cm"
-  },
-  {
-    "id": 64,
-    "nombre": "Estribo Calada",
-    "categoria": "herrajes",
-    "precio": 100,
-    "descripcion": "",
-    "img": "./assets/img/manijas/estriboCalada21x15.png",
-    "alt": "",
-    "medidas": "21cm x 15cm"
-  },
-  {
-    "id": 64,
+    "id": 40,
     "nombre": "Fija Chica",
     "categoria": "herrajes",
     "precio": 7226,
@@ -662,13 +421,310 @@
     "medidas": "17cm x 8cm"
   },
   {
-    "id": 64,
-    "nombre": "Fija Grande",
+    "id": 41,
+    "nombre": "Borla",
     "categoria": "herrajes",
     "precio": 100,
     "descripcion": "",
-    "img": "./assets/img/manijas/fijaGrande20x15.png",
+    "img": "./assets/img/manijas/borla21x13.png",
     "alt": "",
-    "medidas": "20cm x 15xm"
+    "medidas": "21cm x 13cm"
+  },
+  {
+    "id": 42,
+    "nombre": "Alita Chica",
+    "categoria": "herrajes",
+    "precio": 12311,
+    "descripcion": "",
+    "img": "./assets/img/manijas/alitaChica.png",
+    "alt": "",
+    "medidas": "22cm x 15cm"
+  },
+  {
+    "id": 43,
+    "nombre": "Estribo",
+    "categoria": "herrajes",
+    "precio": 18478,
+    "descripcion": "",
+    "img": "./assets/img/manijas/estribo.png",
+    "alt": "",
+    "medidas": "22cm x 16cm"
+  },
+  {
+    "id": 44,
+    "nombre": "Moño Chico",
+    "categoria": "herrajes",
+    "precio": 14857,
+    "descripcion": "",
+    "img": "./assets/img/manijas/monioChico.png",
+    "alt": "",
+    "medidas": "19cm x 15cm"
+  },
+  {
+    "id": 45,
+    "nombre": "Alita Rallada 1",
+    "categoria": "herrajes",
+    "precio": 20457,
+    "descripcion": "",
+    "img": "./assets/img/manijas/alitaRallada1.png",
+    "alt": "",
+    "medidas": "24cm x 17cm"
+  },
+  {
+    "id": 46,
+    "nombre": "Estribo Calada",
+    "categoria": "herrajes",
+    "precio": 2092,
+    "descripcion": "",
+    "img": "./assets/img/manijas/estriboCalada21x15.png",
+    "alt": "",
+    "medidas": "21cm x 15cm"
+  },
+  {
+    "id": 47,
+    "nombre": "Bigote",
+    "categoria": "herrajes",
+    "precio": 20457,
+    "descripcion": "",
+    "img": "./assets/img/manijas/bigote.png",
+    "alt": "",
+    "medidas": "23cm x 18cm"
+  },
+  {
+    "id": 48,
+    "nombre": "1026 E",
+    "categoria": "herrajes",
+    "precio": 100,
+    "descripcion": "",
+    "img": "./assets/img/manijas/1026E.png",
+    "alt": "",
+    "medidas": "21 x 16cm"
+  },
+  {
+    "id": 49,
+    "nombre": "Caladita",
+    "categoria": "herrajes",
+    "precio": 20457,
+    "descripcion": "",
+    "img": "./assets/img/manijas/caladita.png",
+    "alt": "",
+    "medidas": "23cm x 14cm"
+  },
+  {
+    "id": 50,
+    "nombre": "Alita Rallada 2",
+    "categoria": "herrajes",
+    "precio": 100,
+    "descripcion": "",
+    "img": "./assets/img/manijas/alitaRallada2.png",
+    "alt": "",
+    "medidas": "24cm x 17cm"
+  },
+  {
+    "id": 51,
+    "nombre": "Moño Grande",
+    "categoria": "herrajes",
+    "precio": 23779,
+    "descripcion": "",
+    "img": "./assets/img/manijas/monioGrande.png",
+    "alt": "",
+    "medidas": "21cm x 16cm"
+  },
+  {
+    "id": 52,
+    "nombre": "Alita Grande",
+    "categoria": "herrajes",
+    "precio": 24936,
+    "descripcion": "",
+    "img": "./assets/img/manijas/alitaGrande.png",
+    "alt": "",
+    "medidas": "23cm x 17cm"
+  },
+  {
+    "id": 52.1,
+    "nombre": "Tubo",
+    "categoria": "herrajes",
+    "precio": 24936,
+    "descripcion": "",
+    "img": "./assets/img/manijas/tubo33x12.png",
+    "alt": "",
+    "medidas": "33cm x 12cm"
+  },
+  {
+    "id": 53,
+    "nombre": "Americana",
+    "categoria": "herrajes",
+    "precio": 28744,
+    "descripcion": "",
+    "img": "./assets/img/manijas/americana.png",
+    "alt": "",
+    "medidas": "26cm x 16cm"
+  },
+  {
+    "id": 54,
+    "nombre": "Abanico",
+    "categoria": "herrajes",
+    "precio": 100,
+    "descripcion": "",
+    "img": "./assets/img/manijas/abanico.png",
+    "alt": "",
+    "medidas": "25cm x 16xm"
+  },
+  {
+    "id": 55,
+    "nombre": "222",
+    "categoria": "herrajes",
+    "precio": 100,
+    "descripcion": "",
+    "img": "./assets/img/manijas/222.png",
+    "alt": "",
+    "medidas": "27cm x 17cm"
+  },
+  {
+    "id": 56,
+    "nombre": "Alita Super",
+    "categoria": "herrajes",
+    "precio": 31805,
+    "descripcion": "",
+    "img": "./assets/img/manijas/alitaSuper.png",
+    "alt": "",
+    "medidas": "25cm x 18cm"
+  },
+  {
+    "id": 57,
+    "nombre": "1026 B",
+    "categoria": "herrajes",
+    "precio": 100,
+    "descripcion": "",
+    "img": "./assets/img/manijas/1026B.png",
+    "alt": "",
+    "medidas": "22cm x 17cm"
+  },
+  {
+    "id": 58,
+    "nombre": "1938",
+    "categoria": "herrajes",
+    "precio": 100,
+    "descripcion": "",
+    "img": "./assets/img/manijas/1938.png",
+    "alt": "",
+    "medidas": "24cm x 17cm"
+  },
+  {
+    "id": 59,
+    "nombre": "Abanico Bocha",
+    "categoria": "herrajes",
+    "precio": 67479,
+    "descripcion": "",
+    "img": "./assets/img/manijas/abanicoB.png",
+    "alt": "",
+    "medidas": "25cm x 16xm"
+  },
+
+  {
+    "id": 60,
+    "nombre": "2015",
+    "categoria": "herrajes",
+    "precio": 100,
+    "descripcion": "",
+    "img": "./assets/img/manijas/2015.png",
+    "alt": "",
+    "medidas": "26cm x 16cm"
+  },
+
+  {
+    "id": 60,
+    "nombre": "Futura",
+    "categoria": "herrajes",
+    "precio": 100,
+    "descripcion": "",
+    "img": "./assets/img/manijas/futura.png",
+    "alt": "",
+    "medidas": "17cm x 17cm"
+  },
+  {
+    "id": 62,
+    "nombre": "Franja Lisa",
+    "categoria": "herrajes",
+    "precio": 100,
+    "descripcion": "",
+    "img": "./assets/img/manijas/franjaLisa.png",
+    "alt": "",
+    "medidas": "27cm x 16cm"
+  },
+
+  {
+    "id": 61,
+    "nombre": "Doble Bocha",
+    "categoria": "herrajes",
+    "precio": 24936,
+    "descripcion": "",
+    "img": "./assets/img/manijas/dobleBocha27x17.png",
+    "alt": "",
+    "medidas": "27cm x 17cm"
+  },
+
+  {
+    "id": 65,
+    "nombre": "Chimasa Cofre",
+    "categoria": "accesorios",
+    "precio": 10277,
+    "descripcion": "",
+    "img": "./assets/img/accesorios/chimasaCofre57x12.png",
+    "alt": "",
+    "medidas": "57cm x 12cm"
+  },
+
+  {
+    "id": 66,
+    "nombre": "Escuadra con Dado",
+    "categoria": "accesorios",
+    "precio": 100,
+    "descripcion": "",
+    "img": "./assets/img/accesorios/escuadraConDado7x8.png",
+    "alt": "",
+    "medidas": "7cm x 8cm"
+  },
+
+  {
+    "id": 67,
+    "nombre": "Levantador",
+    "categoria": "accesorios",
+    "precio": 2169,
+    "descripcion": "",
+    "img": "./assets/img/accesorios/levantador5x5.png",
+    "alt": "",
+    "medidas": "5cm x 5cm"
+  },
+  {
+    "id": 68,
+    "nombre": "Levantador x 2",
+    "categoria": "accesorios",
+    "precio": 100,
+    "descripcion": "",
+    "img": "./assets/img/accesorios/levantadorx2.png",
+    "alt": "",
+    "medidas": "41cm x 4cm"
+  },
+  {
+    "id": 69,
+    "nombre": "Media Bisagra",
+    "categoria": "accesorios",
+    "precio": 100,
+    "descripcion": "",
+    "img": "./assets/img/accesorios/mediaBisagra12x6.png",
+    "alt": "",
+    "medidas": "12cm x 6cm"
+  },
+
+  {
+    "id": 70,
+    "nombre": "Soporte x 2",
+    "categoria": "accesorios",
+    "precio": 100,
+    "descripcion": "",
+    "img": "./assets/img/accesorios/soportex2.png",
+    "alt": "",
+    "medidas": "19cm x 4cm"
   }
 ]

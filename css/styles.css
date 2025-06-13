@@ -303,9 +303,17 @@ body .mainContainer {
 body .mainContainer .filter {
   gap: 10px;
   display: flex;
+  padding: 15px;
 }
 body .mainContainer .filter .btnCategorias {
   background-color: #084a95;
+  border: none;
+  border-radius: 5px;
+  padding: 0px 10px 0px 10px;
+  color: #efefef;
+}
+body .mainContainer .filter .btnSort {
+  background-color: gray;
   border: none;
   border-radius: 5px;
   padding: 0px 10px 0px 10px;
@@ -460,8 +468,10 @@ body .mainContainer .productosMain #productos .overlay.active {
     margin-top: 20px;
   }
   body .mainContainer .filter {
-    gap: 10px;
+    gap: 5px;
     display: block;
+    margin: auto;
+    padding: 0px 40px;
   }
   body .mainContainer .filter .btnCategorias {
     background-color: #084a95;
@@ -470,6 +480,14 @@ body .mainContainer .productosMain #productos .overlay.active {
     padding: 0px 10px 0px 10px;
     color: #efefef;
     height: 25px;
+    margin-top: 5px;
+  }
+  body .mainContainer .filter .btnSort {
+    background-color: gray;
+    border: none;
+    border-radius: 5px;
+    padding: 0px 10px 0px 10px;
+    color: #efefef;
   }
   body .mainContainer .productosMain {
     width: 100%;

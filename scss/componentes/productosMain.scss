@@ -9,8 +9,16 @@ body {
       gap: 10px;
       display: flex;
       // border: solid 1px red;
+      padding: 15px;
       .btnCategorias {
         background-color: $main;
+        border: none;
+        border-radius: 5px;
+        padding: 0px 10px 0px 10px;
+        color: $whiteText;
+      }
+      .btnSort {
+        background-color: gray;
         border: none;
         border-radius: 5px;
         padding: 0px 10px 0px 10px;
@@ -181,9 +189,11 @@ body {
       align-items: center;
       margin-top: 20px;
       .filter {
-        gap: 10px;
+        gap: 5px;
         display: block;
         // border: solid 1px red;
+        margin: auto;
+        padding: 0px 40px;
         .btnCategorias {
           background-color: $main;
           border: none;
@@ -191,6 +201,14 @@ body {
           padding: 0px 10px 0px 10px;
           color: $whiteText;
           height: 25px;
+          margin-top: 5px;
+        }
+        .btnSort {
+          background-color: gray;
+          border: none;
+          border-radius: 5px;
+          padding: 0px 10px 0px 10px;
+          color: $whiteText;
         }
       }
       .productosMain {

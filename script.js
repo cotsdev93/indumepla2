@@ -47,15 +47,26 @@ const btnCategorias = document.querySelectorAll(".btnCategorias");
 
 btnCategorias.forEach((boton) => {
   boton.addEventListener("click", () => {
-    const productos = bd.registrosPorCategoria(boton.dataset.categoria);
-    cargarProductos(productos)
+    const categoria = boton.dataset.categoria;
+    const productos = categoria === "todos" 
+      ? bd.traerRegistros() 
+      : bd.registrosPorCategoria(categoria);
+    cargarProductos(productos);
     console.log("funca");
   });
 });
 
+// Add these constants after the other button declarations
+const btnSortAlphabetical = document.querySelector("#sortAlphabetical");
+const btnSortByPrice = document.querySelector("#sortByPrice");
+
+// Add a variable to keep track of current products
+let currentProductos = [];
+
+// Modify the cargarProductos function to store current products
 function cargarProductos(productos) {
-  // Ordenar por precio ascendente
-  productos.sort((a, b) => a.precio - b.precio);
+  // Store the current products
+  currentProductos = [...productos];
 
   divProductos.innerHTML = `
     <div class="overlay"></div>
@@ -71,7 +82,8 @@ function cargarProductos(productos) {
     </div>
   `;
 
-  for (const producto of productos) {
+  // Use currentProductos instead of productos for rendering
+  for (const producto of currentProductos) {
     divProductos.innerHTML += `
       <div class="card">
         <div class="imgContainer">
@@ -82,7 +94,6 @@ function cargarProductos(productos) {
             <h3>${producto.nombre}</h3>
           </div>
           <p class="medidas">${producto.medidas}</p>
-          <p class="precio">$${producto.precio}</p>
         </div>
       </div>
     `;
@@ -90,7 +101,6 @@ function cargarProductos(productos) {
 
   setupZoomHandlers();
 }
-
 
 function setupZoomHandlers() {
   const images = document.querySelectorAll(".imgContainer img");
@@ -137,3 +147,20 @@ function setupZoomHandlers() {
   overlay.addEventListener("click", closeZoom);
   zoomView.addEventListener("click", closeZoom);
 }
+
+// Add these event listeners after the other button event listeners
+btnSortAlphabetical.addEventListener("click", () => {
+  // Sort only the current products
+  const sortedProductos = [...currentProductos].sort((a, b) => 
+    a.nombre.localeCompare(b.nombre)
+  );
+  cargarProductos(sortedProductos);
+});
+
+btnSortByPrice.addEventListener("click", () => {
+  // Sort only the current products
+  const sortedProductos = [...currentProductos].sort((a, b) => 
+    a.id - b.id
+  );
+  cargarProductos(sortedProductos);
+});
